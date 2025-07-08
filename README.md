@@ -9,4 +9,5 @@ The data architecture for this project follows **Medallion Architecture**
 - Silver
 - Gold layers
 
-![image](https://github.com/user-attachments/assets/f2bbc850-7383-4f6b-bcad-a3bbaa3d552b)
+![image](https://github.com/user-attachments/assets/e8e81e51-411c-41ed-a29d-b6be5881b608)
+
